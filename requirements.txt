@@ -1,0 +1,4 @@
+Flask==2.0.1
+Werkzeug==2.0.1
+user-agents==2.2.0
+
